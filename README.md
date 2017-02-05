@@ -10,7 +10,7 @@ This scheduler can add/delete any event through schedule command. All the events
 * Fourth, set alias alias ```sh schedule="python ./schedule_persist.py"```
 
 ## Usage
-```sh schedule add [name] [description] [priority] [due hour]```
-```sh schedule get [name] ```
-```sh schedule delete [name] ```
-```sh schedule diplay [name] ```
+* ```sh schedule add [name] [description] [priority] [due hour]```
+* ```sh schedule get [name] ```
+* ```sh schedule delete [name] ```
+* ```sh schedule diplay [name] ```
